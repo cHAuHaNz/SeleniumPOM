@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+env_bak/
+
+# IDE files
+.idea/
+.vscode/
+
+# Test reports and logs
+reports/
+logs/
+
+# Selenium Webdriver logs
+geckodriver.log
+chromedriver.log
+MicrosoftWebDriver.log
+operadriver.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
